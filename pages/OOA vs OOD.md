@@ -1,3 +1,3 @@
 - First of All in both words there is a **OO** prefix which means that when you do do, you don't just `Analyze` or `Design`, but actually try to fit them in terms of object
 - # OOA
-- You analyze the system and see it
+- You analyze the system(the description behind it) and visualize it. Then you start
