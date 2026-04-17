@@ -9,8 +9,5 @@
 - # Encapsulation
 - It is the process of hiding the implementation and providing a public interface that `encapsulates` the implementation
   > it is like wrapping the medicine in a **pill**, so the user can **swallow** it, without **caring** if that powder was **yummy** or **!yummy**
-- # Hierarchy
-- The ranking or ordering of abstractions
-- This means that the classes in the program are connected in ways that imply that one class is superior to another
 - # Polymorphism
 - The ability of different objects to respond to the same message in different ways
