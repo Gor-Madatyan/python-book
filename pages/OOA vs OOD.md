@@ -1,1 +1,1 @@
-- So, the i
+- First of All in both words there is a **OO** prefix which means that when you do do, you don't just `Analyze` or `Design`
