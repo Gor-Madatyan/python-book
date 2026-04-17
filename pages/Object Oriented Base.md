@@ -1,0 +1,4 @@
+- Let's define OOP.
+	- >Object-oriented programming (OOP) is a programming paradigm based on objects – software entities that encapsulate data and function(s).
+	- there are also concepts like [[OOA vs OOD]]
+	-
