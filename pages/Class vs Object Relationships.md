@@ -18,3 +18,7 @@
 - **But** the remaining three behave themselves quite interesting
 - ## Association, Composition, Aggregation
 - Association becomes `Link`, `composition` and `aggregation` - `aggregation`
+- The objects in `Link` can be said to be one these
+	- Server
+	- Proxy
+	- Client
