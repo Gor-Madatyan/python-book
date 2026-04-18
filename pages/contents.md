@@ -10,9 +10,15 @@
 	  logseq.order-list-type:: number
 	- [[MRO]]
 	  logseq.order-list-type:: number
+	- [[Hovsepyans Problem]]
+	  logseq.order-list-type:: number
+	- [[Abstract Classes / Interfaces]]
+	  logseq.order-list-type:: number
 	- [[Duck Typing]]
 	  logseq.order-list-type:: number
 	- [[Object Operations]]
+	  logseq.order-list-type:: number
+	- [[class vs instance vs static attributes]]
 	  logseq.order-list-type:: number
 	- [[Subclass Hook]]
 	  logseq.order-list-type:: number

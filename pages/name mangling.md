@@ -1,0 +1,2 @@
+- in python there are no private attributes instead all names are mangled if they start with `__`
+	- `__a` -> `_A__a` for the `__a` attribute of the A class
