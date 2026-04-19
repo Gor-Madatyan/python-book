@@ -22,4 +22,3 @@
 	  logseq.order-list-type:: number
 	- [[Subclass Hook]]
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number

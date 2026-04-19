@@ -421,5 +421,5 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true
  :builtin-pages? true}
- :editor/preferred-pasting-file? true
+ :editor/preferred-pasting-file? false
  :editor/logical-outdenting? false}

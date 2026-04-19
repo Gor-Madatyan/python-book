@@ -422,4 +422,4 @@
  :graph/settings {:journal? true
  :builtin-pages? true}
  :editor/preferred-pasting-file? true
- :editor/logical-outdenting? false}
+ :editor/logical-outdenting? true}
